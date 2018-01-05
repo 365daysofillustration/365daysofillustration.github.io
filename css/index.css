@@ -1,0 +1,49 @@
+.color-text{
+ color:#a2a2a2;
+font-family: 'Alegreya', serif;
+ font-size: 15px;
+ font-weight:500;
+ text-align:center
+}
+.color-text-mail{
+ color:#fedb53;
+font-family: 'Alegreya', serif;
+ font-size: 20px;
+ font-weight:700;
+text-align:center;
+padding-top: 10px;
+}
+.imagepanel{
+
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+  border-radius:0px;
+}
+
+.myworksimage{
+ height:230px;
+  width:230px;
+ padding-left:10px;
+
+}
+
+.projectnametext{
+font-size:30px;
+ color:#f15455;
+text-align:center;
+margin-top:20px;
+}
+
+.behanceicon{
+height:30px;
+width:30px;
+ margin-left:110px;
+ margin-right:10px;
+  margin-top:10px;
+}
+
+.instagramicon{
+  height:30px;
+  width:30px;
+  margin-top:10px;
+}
