@@ -1,15 +1,15 @@
 .color-text{
- color:#a2a2a2;
-font-family: 'Alegreya', serif;
- font-size: 15px;
+ color:#292E39;
+ font-family: Nunito;
+ font-size: 16px;
  font-weight:500;
  text-align:center
 }
 .color-text-mail{
  color:#fedb53;
-font-family: 'Alegreya', serif;
+ font-family: Nunito;
  font-size: 20px;
- font-weight:700;
+ font-weight:600;
 text-align:center;
 padding-top: 10px;
 }
